@@ -1,5 +1,5 @@
 {
-    "name": "gpgkd906/composersample",
+    "name": "gpgkd906/composersample2",
     "type": "library",
     "require": {
         "symfony/yaml": "v3.0.0"
