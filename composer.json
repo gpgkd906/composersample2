@@ -1,0 +1,13 @@
+{
+    "name": "gpgkd906/composersample",
+    "type": "library",
+    "require": {
+        "symfony/yaml": "v3.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+	"psr-4": {
+	    "ComposerSample\\": "src"
+	}
+    }
+}
